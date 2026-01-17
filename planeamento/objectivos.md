@@ -1,21 +1,17 @@
 # Objetivos do Projeto
 
+HEAD
 Versão: 2.0
+main
 
 ## Objetivo Geral
 
-Criar documentação padronizada e reduzir erros operacionais através de processos claros.
-
-
-## Objetivos Específicos
-
-1. Definir estrutura de pastas e normas de escrita.
-2. Registar decisões e ações de reuniões.
-3. Produzir relatórios semanais com estado do trabalho.
+Criar documentação padronizada com regras de validação, rastreabilidade e redução de erros operacionais.
 
 ## Critérios de sucesso
 
 - Organização clara
-- Processo diário consistente
-- Entrega final bem documentada
+- Revisão antes de integração
+- Registo de decisões e ações
+
 
